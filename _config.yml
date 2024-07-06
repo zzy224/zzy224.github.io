@@ -22,7 +22,7 @@ repository               : "zzy224/zzy224.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : ""
   pronouns         : "He/His"# example: "she/her"  
   bio              : "Ph.D student in USTC, currently research intern at Alibaba XR Lab"
   location         : "Anhui, China"
